@@ -7,4 +7,4 @@ Model and test, plot functions are all in  single Jupyter notebooks.
 Run the following line in terminal to install requirements:
  `pip install -r requirements.txt`
 
-   
+We recommend that each person can create their own Notebook when using it, due to the different tasks we try to solve. However, after a thorough discussion, we need to make changes to the default model and the acceleration model, then these updates need to be noticed and pulled in time!
