@@ -173,7 +173,7 @@ def save_params(params,name = 'default'):
     with open('params'+now+' '+name+'.txt', 'w') as file:
         file.write(str(default_dict)+'\n')
         file.write("\n")
-        file.write("defferent params:")
+        file.write("different params:")
         file.write(str(diff))
 
 
